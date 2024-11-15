@@ -8,5 +8,5 @@ var person = /** @class */ (function () {
     };
     return person;
 }());
-var person1 = new person("nihal", 16);
-console.log(person1.greet());
+var person2 = new person("nihal", 16);
+console.log(person2.greet());
